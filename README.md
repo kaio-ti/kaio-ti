@@ -39,8 +39,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 
-
 <h2 />
+
+<div>
+  <img
+  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-ti&layout=compact&theme=radical"
+       />
+</div>
   
 <h3>Connect with me</h3>
 
