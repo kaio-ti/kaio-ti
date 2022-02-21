@@ -1,7 +1,7 @@
 <h1> Welcome! </h1>
 
 ### About me 
-- 🌱 I’m currently learning typescript and Node.js
+- 🌱 I’m currently learning Django
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in learning Machine Learning
 
